@@ -51,7 +51,7 @@
 ### ⚙️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,zapier" />
 </p>
 
 ---
